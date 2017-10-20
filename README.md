@@ -17,3 +17,5 @@ In the meantime...
 To keep in the spirit of [Hacktoberfest](https://hacktoberfest.digitalocean.com/) I'm opening this up to the Github community.
 
 See a [list of current issues](https://github.com/scrabill/how-many-days-until-halloween/issues) or suggest your own!
+
+Here is the [list of contributors](https://github.com/scrabill/how-many-days-until-halloween/blob/master/contributer-list.md) who have helped with this project.
